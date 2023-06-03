@@ -660,6 +660,7 @@
         @media screen and (max-width:240px) {
             .item {
                 max-width: 100%;
+                height:50px;
             }
         }
     }
