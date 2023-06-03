@@ -671,7 +671,7 @@
 }
 
 .space {
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     gap: 0.6rem;
 }
