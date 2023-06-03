@@ -159,9 +159,11 @@
     #logo {
         padding-right: 130px;
         opacity: 1;
+        font-size:20px;
     }
     .container__logo {
         opacity: 1;
+        font-size:20px;
     }
     .toggle .bars {
         width: 25px;
