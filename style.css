@@ -567,14 +567,14 @@
             background-color: antiquewhite;
             margin-left: 0.5em;
             width: 170px;
-            height: 50vh;
+            height: 50px;
             -webkit-box-shadow: 0px 29px 38px -15px rgba(0, 0, 0, 0.43);
             -moz-box-shadow: 0px 29px 38px -15px rgba(0, 0, 0, 0.43);
             box-shadow: 0px 29px 38px -15px rgba(0, 0, 0, 0.43);
         }
         .space {
             display: inline-block;
-            flex-direction: column;
+            flex-direction: row;
             gap: 0.3rem;
         }
         .content .navbar__btn {
