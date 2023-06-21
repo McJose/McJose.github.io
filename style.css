@@ -572,7 +572,8 @@
         background-image: url(hackn.jpg);
     }
     .space {
-        flex-direction: column;
+        display: flex;
+        flex-direction: row;
         gap: 0.6rem;
     }
     .social-media {
