@@ -113,7 +113,7 @@
 
 /*NAVBAR MEDIA SCREEN 960px*/
 
-@media screen and (min-width:968px) {
+@media screen and (min-width:1300px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
@@ -201,7 +201,7 @@
     }
 }
 
-@media screen and (max-width:967px) {
+@media screen and (max-width:1028px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
@@ -306,7 +306,7 @@
     justify-self: center;
     height: 100%;
     width: 100%;
-    max-width: auto;
+    max-width: 1300px;
     padding: 0 50px;
     cursor: default;
 }
@@ -476,7 +476,7 @@
         font-family: 'Times New Roman', Times, serif;
         background-color: #000;
         justify-self: center;
-        max-width: 100%;
+        width: 100%;
         padding: 0 50px;
         cursor: default;
     }
@@ -503,7 +503,6 @@
         font-family: 'Times New Roman', Times, serif;
     }
     .content p {
-        display: flex;
         font-size: 18px;
         color: antiquewhite;
     }
@@ -573,8 +572,7 @@
         background-image: url(hackn.jpg);
     }
     .space {
-        display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0.6rem;
     }
     .social-media {
@@ -627,7 +625,8 @@
         font-family: 'Times New Roman', Times, serif;
         background-color: #000;
         justify-self: center;
-        max-width: 100%;
+        width: 100%;
+        max-width: 1300px;
         padding: 0 50px;
         cursor: default;
     }
@@ -654,7 +653,6 @@
         font-family: 'Times New Roman', Times, serif;
     }
     .content p {
-        display: flex;
         font-size: 18px;
         color: antiquewhite;
     }
@@ -725,7 +723,7 @@
     }
     .space {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         gap: 0.6rem;
     }
     .social-media {
