@@ -399,15 +399,16 @@
             color: rgb(90, 161, 90);
         }
         .content h2 {
-            font-size: 22px;
+            font-size: 26px;
             color: antiquewhite;
+            font-family: 'Times New Roman', Times, serif;
         }
         .content h3 {
-            font-size: 18px;
+            font-size: 16px;
             color: rgb(0, 0, 0);
          }
         .content p {
-            font-size: 18px;
+            font-size: 14px;
             color: antiquewhite;
         }
         .content a {
