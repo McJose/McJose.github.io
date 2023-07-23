@@ -145,12 +145,12 @@
         }
         #logo {
             font-family: 'Times New Roman', Times, serif;
-            font-size: 20px;
+            font-size: 16px;
             opacity: 1;
         }
         .container__logo {
             font-family: 'Times New Roman', Times, serif;
-            font-size: 19px;
+            font-size: 16px;
             opacity: 1;
         }
         .toggle .bars {
@@ -162,6 +162,7 @@
         }
         .navbar__items {
             width: 100%;
+            font-size: 16px;
         }
         .navbar__links {
             text-align: center;
@@ -178,6 +179,7 @@
         }
         .navbar__button {
             padding-bottom: 16px;
+            font-size: 16px;
         }
         .navbar__btn {
             display: flex;
@@ -230,7 +232,7 @@
     }
     
     .content h1 {
-        font-size: 28px;
+        font-size: 32px;
         padding: 30px 0;
         color: antiquewhite;
         background-size: 100%;
@@ -238,8 +240,9 @@
     }
     
     .content h2 {
-        font-size: 22px;
+        font-size: 28px;
         color: antiquewhite;
+        font-family: 'Times New Roman', Times, serif;
     }
     
     .content h3 {
@@ -286,7 +289,7 @@
         text-align: center;
         display: flex;
         margin-left: 150px;
-        width: 260px;
+        width: 300px;
         height: auto;
         max-width: 320px;
         background-color: antiquewhite;
@@ -424,7 +427,7 @@
             font-family: 'Times New Roman', Times, serif;
         }
         .card p {
-            font-size: 16px;
+            font-size: 14px;
             color: rgb(0, 0, 0);
             line-height: 1.5s;
             padding: 1em;
@@ -460,6 +463,7 @@
             font-weight: 700;
             font-size: 1.6rem;
             margin-top: 1em;
+            font-family: 'Times New Roman', Times, serif;
         }
         .img {
             width: 90%;
