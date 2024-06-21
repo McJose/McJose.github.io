@@ -529,21 +529,22 @@ font-size: 18px;
 .item{
   text-align: center;
   display: flex;
-  margin-left:1px;
+  margin-left:2px;
   width: 300px;
-  height: vh;
+  height: 62vh;
   flex-direction: column;
   align-items: center;
 }
 .item_1{
   width: 250px;
+  height: 55vh;
 }
 .item_2{
   text-align: center;
   display: flex;
   margin-left:1px;
   width: 250px;
-  height: 60vh;
+  height: 55vh;
   flex-direction: column;
   align-items: center;
 }
