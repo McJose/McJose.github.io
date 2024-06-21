@@ -604,7 +604,6 @@ font-size: 18px;
     .item {
         width: 250px;
         max-width: 320px;
-        height: 40vh;
     }
     .space {
       height: 170vh;
@@ -683,7 +682,6 @@ font-size: 18px;
     .item {
       width: 250px;
       max-width: 320px;
-      height: 41vh;
   }
   .space {
     height: 170vh;
@@ -706,10 +704,6 @@ font-size: 18px;
   }
     .item_1 {
       margin-left: 2px;
-      height: 42vh;
-    }
-    .item_2{
-      height: 22vh;
     }
 }
 /*------------------------------------
