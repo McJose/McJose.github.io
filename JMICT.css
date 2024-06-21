@@ -683,7 +683,7 @@ font-size: 18px;
     .item {
       width: 250px;
       max-width: 320px;
-      height:auto;
+      height: 52px;
   }
   .space {
     height: auto;
@@ -706,6 +706,7 @@ font-size: 18px;
   }
     .item_1 {
       margin-left: 2px;
+      height: 55px;
     }
 }
 /*------------------------------------
