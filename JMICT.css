@@ -676,14 +676,42 @@ font-size: 18px;
   width: 40px;
 }
 }
-/*
-@media screen and(max-width:480px) {
+
+@media screen and(max-width:650px) {
     .item {
         width: 150px;
         max-width: 160px;
     }
+    .item {
+      width: 250px;
+      max-width: 320px;
+      height: 41vh;
+  }
+  .space {
+    height: 170vh;
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+  }
+  .space2 {
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+  }
+  .space_1{
+    
+    height: .8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3.8rem;
+  }
+    .item_1 {
+      margin-left: 2px;
+      height: 42vh;
+    }
 }
-
+/*------------------------------------
 @media screen and (max-height:479px) {
     .item {
         height: auto;
